@@ -11,6 +11,7 @@ def move_zeroes(data):
         data[remaining_index] =0
         
         
+#-------- testing with different arrays -------
 data=[0,8,6,0,1]
 move_zeroes(data)
 print(data)
